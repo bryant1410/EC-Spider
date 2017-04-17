@@ -1,11 +1,11 @@
 Unofficial-API_for_Crawling
 ===========================
-#声明：
+# 声明：
 该源码仅为学习交流使用，不用于商业用途，如有侵权问题
 
 请在[Issues](https://github.com/ClericPy/EC-Spider/issues)里留言
 
-##介绍：
+## 介绍：
 
 文件名：get_jd.py
 
@@ -26,4 +26,4 @@ get_jd_rate_all：根据商品ID抓取所有评论，返回结果是按顺序存
 
 get_jd_price：根据商品ID抓取价格，这个速度最快，而且从来不会封IP
 
-######modifie：2014-11-09 11:23:36
+###### modifie：2014-11-09 11:23:36
